@@ -10,8 +10,8 @@ For a better overview, you can also toggle a visual aid. You can save and load t
 **Please note that the save function overrides the currently saved patrol, so always load first, then set a new patrol and then save. Otherwise your previous saved patrols will be gone.**
 
 ### Basic Commands
-The script uses a standardized API command syntax. All Token Patrol commands will begin with !tp. This will then be followed by a space, a double dash preceding a keyword. This looks like this:
-**!tp --menu**
+The script uses a standardized API command syntax. All Token Patrol commands will begin with **!tokPat**. This will then be followed by a space, a double dash preceding a keyword. This looks like this:
+**!tokPat --menu**
 
 ### Setting up Token Patrol
 After installing the script and reloading the sandbox, Token Patrol will create necessary macros. For the GM the following are of interest:
@@ -20,7 +20,7 @@ For easy use, I recommend showing it in your macro bar.
 
 
 ### Using Token Patrol
-Start by using the **API-TP-Menu** macro. This will prompt a menu in the chat.
+Start by using the **API-TokPat-Menu** macro. This will prompt a menu in the chat.
 
 **Set Position:**
 Adds a new Patrol Point for the selected Token.

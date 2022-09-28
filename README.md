@@ -5,7 +5,7 @@ Welcome to Token Patrol. This script helps in creating patrols for your tokens i
 ### Using Token Patrol
 With this script you will be able to set patrols for various tokens. Tokens will only move on the page where your player banner is located.
 Tokens can move in a closed loop patrol, or backtrack previous patrol points. The length of the time between the movements can also be modified.
-For a better overview, you can also toggle a visual aid.
+For a better overview, you can also toggle a visual aid. You can save and load these patrols.
 
 **Please note that the save function overrides the currently saved patrol, so always load first, then set a new patrol and then save. Otherwise your previous saved patrols will be gone.**
 

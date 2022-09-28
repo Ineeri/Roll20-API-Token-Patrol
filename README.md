@@ -3,7 +3,9 @@
 Welcome to Token Patrol. This script helps in creating patrols for your tokens in Roll20, without having to move them manually.
 
 ### Using Token Patrol
-The script is able to set patrol points for tokens on the page your player banner is located. Patrols that have been configured on different pages will not be executed. You are able to set a circle patrol, or a trackback patrol where the token traces back to the beginning point. You can set the patrol speed, meaning how many seconds should pass before the token moves one scare. For a better look at your patros, it is possible to toggle a colored path. A save and load function are also available. 
+With this script you will be able to set patrols for various tokens. Tokens will only move on the page where your player banner is located.
+Tokens can move in a closed loop patrol, or backtrack previous patrol points. The length of the time between the movements can also be modified.
+For a better overview, you can also toggle a visual aid.
 
 **Please note that the save function overrides the currently saved patrol, so always load first, then set a new patrol and then save. Otherwise your previous saved patrols will be gone.**
 
